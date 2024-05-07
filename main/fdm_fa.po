@@ -1,3 +1,4 @@
+```po
 msgid ""
 msgstr ""
 "MIME-Version: 1.0\n"
@@ -22,11 +23,11 @@ msgstr "تاریخ بیلد: %1"
 
 msgctxt "AboutDialog|"
 msgid "© %1, %2-%3"
-msgstr ""
+msgstr "© %1، %2-%3"
 
 msgctxt "AboutDialog|"
 msgid "remote control"
-msgstr ""
+msgstr "کنترل از راه دور"
 
 msgctxt "AboutDialog|"
 msgid "version %1"
@@ -42,15 +43,15 @@ msgstr "نسخه %1 (%2)"
 
 msgctxt "AddDateToFileName|"
 msgid "Add dates to files names"
-msgstr "افزودن تاریخ به نام فایل ها"
+msgstr "افزودن تاریخ به نام فایل‌ها"
 
 msgctxt "AddMirrorDialog|"
 msgid "Add mirror"
-msgstr "اضافه کردن منبع جایگزین"
+msgstr "افزودن منبع جایگزین"
 
 msgctxt "AddMirrorDialog|"
 msgid "Enter mirror URL"
-msgstr "URL منبع جایگزین را وارد کنید"
+msgstr "آدرس اینترنتی منبع جایگزین را وارد کنید"
 
 msgctxt "AddMirrorDialog|"
 msgid "Cancel"
@@ -62,7 +63,7 @@ msgstr "تایید"
 
 msgctxt "AddMirrorPage|"
 msgid "Add mirror"
-msgstr "منبع جایگزین را اضافه کنید"
+msgstr "افزودن منبع جایگزین"
 
 msgctxt "AddMirrorPage|"
 msgid "OK"
@@ -70,7 +71,7 @@ msgstr "تایید"
 
 msgctxt "AddMirrorPage|"
 msgid "Enter mirror URL"
-msgstr "مسیر منبع جایگزین را وارد کنید"
+msgstr "آدرس اینترنتی منبع جایگزین را وارد کنید"
 
 msgctxt "AddTDialog|"
 msgid "Cancel"
@@ -94,27 +95,27 @@ msgstr "پیشرفته"
 
 msgctxt "AdvancedSettings|"
 msgid "Notifications"
-msgstr "اعلان ها"
+msgstr "اعلان‌ها"
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of added downloads via Notification Center"
-msgstr ""
+msgstr "اطلاع‌رسانی در مورد دانلودهای اضافه شده از طریق مرکز اعلان‌ها"
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of completed downloads via Notification Center"
-msgstr "دانلودهای تکمیل شده را از طریق مرکز اعلانات به من اطلاع بده"
+msgstr "اطلاع‌رسانی در مورد دانلودهای تکمیل شده از طریق مرکز اعلان‌ها"
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of failed downloads via Notification Center"
-msgstr "دانلودهای لغو شده را از طریق مرکز اعلان به من اطلاع بده"
+msgstr "اطلاع‌رسانی در مورد دانلودهای ناموفق از طریق مرکز اعلان‌ها"
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of downloads only when %1 window is inactive"
-msgstr "دانلودها را وقتی که پنجره %1 غیرفعال است به من اطلاع بده"
+msgstr "اطلاع‌رسانی فقط در صورتی که پنجره %1 غیرفعال باشد"
 
 msgctxt "AdvancedSettings|"
 msgid "Customize sounds"
-msgstr "شخصی سازی صداها"
+msgstr "شخصی‌سازی صداها"
 
 msgctxt "AdvancedSettings|"
 msgid "Power management"
@@ -122,52 +123,55 @@ msgstr "مدیریت انرژی"
 
 msgctxt "AdvancedSettings|"
 msgid "Avoid sleep mode if there is a scheduled download"
-msgstr ""
+msgstr "اجتناب از حالت خواب اگر دانلودی زمان‌بندی شده وجود داشته باشد"
 
 msgctxt "AdvancedSettings|"
 msgid "Allow sleep mode while sharing files"
-msgstr ""
+msgstr "اجازه دادن به حالت خواب در حالی که فایل‌ها به اشتراک گذاشته می‌شوند"
 
 msgctxt "AdvancedSettings|"
 msgid "Options"
-msgstr "گزینه ها"
+msgstr "گزینه‌ها"
 
 msgctxt "AdvancedSettings|"
 msgid "Launch at startup (minimized)"
-msgstr "اجرا در زمان راه اندازی (مینیمایز)"
+msgstr "راه‌اندازی در هنگام شروع (کمینه‌شده)"
 
 msgctxt "AdvancedSettings|"
 msgid "Show special offers"
-msgstr "نمایش پیشنهادات ویژه"
+msgstr "نمایش پیشنهادهای ویژه"
 
 msgctxt "AdvancedSettings|"
 msgid "Interface"
-msgstr "رابط"
+msgstr "رابط کاربری"
 
 msgctxt "AdvancedSettings|"
 msgid ""
 "Click on the Close button to hide %1 and keep it running in the background"
 msgstr ""
+"برای مخفی کردن %1 و اجرای آن در پس‌زمینه، بر روی دکمه بستن کلیک کنید"
 
 msgctxt "AdvancedSettings|"
 msgid "Open/hide the bottom panel by clicking on the download"
-msgstr "باز و مخفی کردن پنل پایین بوسیله کلیک کردن روی دانلود"
+msgstr "با کلیک بر روی دانلود، پنل پایین را باز/مخفی کنید"
 
 msgctxt "AdvancedSettings|"
 msgid "Indicate active download and upload using tray icon"
-msgstr "نمایش دانلود و آپلود فعال با استفاده از آیکون نرم افزار"
+msgstr "نمایش دانلود و آپلود فعال با استفاده از آیکون سینی"
 
 msgctxt "AdvancedSettings|"
 msgid "Show built-in tags:"
-msgstr ""
+msgstr "نمایش برچسب‌های داخلی:"
 
 msgctxt "AdvancedSettings|"
 msgid "Automation"
-msgstr ""
+msgstr "خودکارسازی"
 
 msgctxt "AdvancedSettings|"
 msgid "Launch external application on download completion"
-msgstr ""
+msgstr "راه‌اندازی برنامه خارجی پس ا
+
+ز تکمیل دانلود"
 
 msgctxt "AdvancedSettings|"
 msgid "Path:"
@@ -175,19 +179,19 @@ msgstr "مسیر:"
 
 msgctxt "AdvancedSettings|"
 msgid "Please enter application's path"
-msgstr ""
+msgstr "لطفاً مسیر برنامه را وارد کنید"
 
 msgctxt "AdvancedSettings|"
 msgid "Arguments:"
-msgstr "ورودی ها:"
+msgstr "آرگومان‌ها:"
 
 msgctxt "AdvancedSettings|"
 msgid "Arguments must contain %path% variable"
-msgstr "ورودی ها باید متغیر %path% را شامل شوند"
+msgstr "آرگومان‌ها باید شامل متغیر %path% باشند"
 
 msgctxt "AdvancedSettings|"
 msgid "Go back to default settings"
-msgstr "برگشت به تنظیمات پیش فرض"
+msgstr "بازگشت به تنظیمات پیش‌فرض"
 
 msgctxt "AdvancedSettings|"
 msgid "Reset"
@@ -195,35 +199,35 @@ msgstr "بازنشانی"
 
 msgctxt "AdvancedSettings|"
 msgid "Default settings"
-msgstr "تنظیمات پیش فرض"
+msgstr "تنظیمات پیش‌فرض"
 
 msgctxt "AdvancedSettings|"
 msgid "Restore default settings?"
-msgstr "بازیابی تنظیمات پیش فرض؟"
+msgstr "بازیابی تنظیمات پیش‌فرض؟"
 
 msgctxt "AdvancedSettings|"
 msgid "Backup the list of downloads every"
-msgstr "بکاپ گرفتن از لیست دانلودها هر"
+msgstr "بکاپ‌گیری از لیست دانلودها هر"
 
 msgctxt "AdvancedSettings|"
 msgid "Avoid sleep mode if there is an active download"
-msgstr ""
+msgstr "اجتناب از حالت خواب اگر دانلود فعال وجود داشته باشد"
 
 msgctxt "AdvancedSettings|"
 msgid "Allow sleep mode if downloads can be resumed later"
-msgstr ""
+msgstr "اجازه دادن به حالت خواب اگر دانلودها بعداً قابل ادامه دادن باشند"
 
 msgctxt "AdvancedSettings|"
 msgid "File exists reaction"
-msgstr ""
+msgstr "واکنش به وجود فایل"
 
 msgctxt "AdvancedSettings|"
 msgid "Rename"
-msgstr "تغییر اسم"
+msgstr "تغییر نام"
 
 msgctxt "AdvancedSettings|"
 msgid "Overwrite"
-msgstr "جایگزینی"
+msgstr "نوشتن مجدد"
 
 msgctxt "AdvancedSettings|"
 msgid "Use sounds"
@@ -231,15 +235,15 @@ msgstr "استفاده از صداها"
 
 msgctxt "AdvancedSettings|"
 msgid "Do not allow downloads if battery level drops below"
-msgstr "اگر شارژ باطری به حداقل رسید اجازه دانلود وجود ندارد"
+msgstr "اجازه دادن به دانلودها اگر سطح شارژ باطری به زیر"
 
 msgctxt "AdvancedSettings|"
 msgid "Do not share files when running on battery"
-msgstr ""
+msgstr "اشتراک‌گذاری فایل‌ها هنگام استفاده از باتری"
 
 msgctxt "AdvancedSettings|"
 msgid "Enable user defined order of downloads"
-msgstr "فعال سازی ترتیب دانلود تعریف شده توسط کاربر"
+msgstr "فعال‌سازی ترتیب دانلود تعریف شده توسط کاربر"
 
 msgctxt "AdvancedSettings|"
 msgid "Show \"Save As...\" button"
@@ -247,15 +251,15 @@ msgstr "نمایش دکمه «ذخیره به عنوان...»"
 
 msgctxt "AdvancedSettings|"
 msgid "Enable standalone create new downloads windows"
-msgstr ""
+msgstr "فعال‌سازی ایجاد پنجره‌های جدید دانلود مستقل"
 
 msgctxt "AdvancedSettings|"
 msgid "Overall zoom"
-msgstr ""
+msgstr "بزرگنمایی کلی"
 
 msgctxt "AdvancedSettings|"
 msgid "Fonts zoom"
-msgstr ""
+msgstr "بزرگنمایی فونت"
 
 msgctxt "AdvancedSettings|"
 msgid "Delete button action"
@@ -267,11 +271,11 @@ msgstr "فقط از لیست دانلود حذف کن"
 
 msgctxt "AdvancedSettings|"
 msgid "Delete files"
-msgstr "حذف فایل ها"
+msgstr "حذف فایل‌ها"
 
 msgctxt "AdvancedSettings|"
 msgid "Always ask"
-msgstr "همیشه سوال کن"
+msgstr "همیشه پرسیده شود"
 
 msgctxt "AdvancedSettings|"
 msgid "Advanced settings"
@@ -283,7 +287,7 @@ msgstr "انتخاب پوسته"
 
 msgctxt "AdvancedSettings|"
 msgid "A light theme will be used, if the system theme is unknown."
-msgstr ""
+msgstr "یک پوسته روشن استفاده می‌شود، اگر پوسته سیستم ناشناخته باشد."
 
 msgctxt "AntivirusComboBox|"
 msgid "Configure manually..."
@@ -291,11 +295,12 @@ msgstr "پیکربندی دستی..."
 
 msgctxt "AntivirusSettings|"
 msgid "Antivirus"
-msgstr "آنتی ویروس"
+msgstr "آنتی‌ویروس"
 
 msgctxt "AntivirusSettings|"
 msgid "Select antivirus:"
-msgstr "آنتی ویروس را انتخاب کنید:"
+msgstr "آنتی‌ویروس را انتخاب کنید:"
+
 
 msgctxt "AntivirusSettings|"
 msgid "Is your antivirus not listed?"
