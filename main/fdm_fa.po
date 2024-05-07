@@ -297,14 +297,10 @@ msgctxt "AntivirusSettings|"
 msgid "Antivirus"
 msgstr "آنتی‌ویروس"
 
-msgctxt "AntivirusSettings|"
-msgid "Select antivirus:"
-msgstr "آنتی‌ویروس را انتخاب کنید:"
-
-
+```po
 msgctxt "AntivirusSettings|"
 msgid "Is your antivirus not listed?"
-msgstr "آنتی ویروس شما وجود ندارد؟"
+msgstr "آنتی‌ویروس شما در لیست نیست؟"
 
 msgctxt "AntivirusSettings|"
 msgid "Path:"
@@ -312,31 +308,31 @@ msgstr "مسیر:"
 
 msgctxt "AntivirusSettings|"
 msgid "Please enter antivirus path"
-msgstr "لطفا مسیر آنتی ویروس را وارد کنید"
+msgstr "لطفاً مسیر آنتی‌ویروس را وارد کنید"
 
 msgctxt "AntivirusSettings|"
 msgid "Arguments:"
-msgstr "ورودی ها:"
+msgstr "آرگومان‌ها:"
 
 msgctxt "AntivirusSettings|"
 msgid "Arguments must contain %path% variable"
-msgstr "ورودی ها باید متغیر %path% را شامل شوند"
+msgstr "آرگومان‌ها باید شامل متغیر %path% باشند"
 
 msgctxt "AntivirusSettings|"
 msgid "Automatically perform virus check when download is finished"
-msgstr "هنگامیکه دانلود تمام می شود به طور خودکار ویروس یابی شود"
+msgstr "هنگامی که دانلود تمام شد، به طور خودکار ویروس‌یابی انجام شود"
 
 msgctxt "AntivirusSettingsDialog|"
 msgid "Virus check"
-msgstr "ویروس یابی"
+msgstr "بررسی ویروس"
 
 msgctxt "AntivirusSettingsDialog|"
 msgid "There is no antivirus specified in the settings."
-msgstr "هیچ آنتی ویروسی در تنظیمات مشخص نشده است."
+msgstr "در تنظیمات هیچ آنتی‌ویروسی مشخص نشده است."
 
 msgctxt "AntivirusSettingsDialog|"
 msgid "Go to settings"
-msgstr "برو به تنظیمات"
+msgstr "رفتن به تنظیمات"
 
 msgctxt "AntivirusSettingsDialog|"
 msgid "Cancel"
@@ -344,61 +340,62 @@ msgstr "انصراف"
 
 msgctxt "AppAndroidPermissionsManager|"
 msgid "Storage"
-msgstr ""
+msgstr "ذخیره‌سازی"
 
 msgctxt "AppAndroidPermissionsManager|"
 msgid "Notifications"
-msgstr "اعلان ها"
+msgstr "اعلان‌ها"
 
 msgctxt "AppAndroidPermissionsManager|"
 msgid "%1 needs permission to save downloaded files to your local storage."
-msgstr ""
+msgstr "%1 نیاز به دسترسی دارد تا فایل‌های دانلود شده را در ذخیره‌سازی محلی‌تان ذخیره کند."
 
 msgctxt "AppAndroidPermissionsManager|"
 msgid ""
 "%1 needs permission to show download progress within your system's "
 "notification panel."
 msgstr ""
+"%1 نیاز به دسترسی دارد تا پیشرفت دانلود را در پنل اعلان سیستم شما نشان دهد."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Downloads with no resume support (%1)."
-msgstr "دانلود هایی بدون پشتیبانی ازسرگیری (%1)."
+msgstr "دانلودهایی که از ادامه دادن پشتیبانی نمی‌کنند (%1)."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Moving files (%1)."
-msgstr "انتقال فایل ها (%1)."
+msgstr "انتقال فایل‌ها (%1)."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Converting files to mp3 (%1)."
-msgstr "تبدیل فایل ها به mp3 (%1)."
+msgstr "تبدیل فایل‌ها به mp3 (%1)."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Converting files to mp4 (%1)."
-msgstr "تبدیل فایل ها به mp4 (%1)."
+msgstr "تبدیل فایل‌ها به mp4 (%1)."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Renaming files (%1)."
-msgstr ""
+msgstr "تغییر نام فایل‌ها (%1)."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Merging media streams (%1)."
-msgstr ""
+msgstr "ادغام جریان‌های رسانه‌ای (%1)."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Deleting files."
-msgstr "حذف فایل ها."
+msgstr "حذف فایل‌ها."
 
 msgctxt "AppQuitConfirmationUiManager|"
 msgid "There are operations with no resume capability in progress"
-msgstr ""
+msgstr "در حال حاضر عملیاتی با قابلیت ادامه دادن در جریان است"
 
 msgctxt "AppRcClientLoadManager|"
 msgid "Connecting to remote %1 (%2)..."
-msgstr ""
+msgstr "در حال اتصال به راه دور %1 (%2)..."
 
 msgctxt "AppRcClientLoadManager|"
 msgid "Getting data from remote %1 (%2)..."
-msgstr ""
+msgstr "در حال دریافت داده‌ها از راه دور %1 (%2)..."
 
 msgctxt "AppRcClientLoadManager|"
 msgid "Failed."
@@ -410,11 +407,13 @@ msgstr "احراز هویت الزامی است"
 
 msgctxt "AuthDialog|"
 msgid "%1 requires authentication"
-msgstr ""
+msgstr "%1 نیاز به احراز هویت دارد"
 
 msgctxt "AuthDialog|"
 msgid "The site says: \"%1\"."
-msgstr "سایت اعلام می کند: \"%1\"."
+msgstr "سایت می‌گوید: \"%1\"
+
+."
 
 msgctxt "AuthDialog|"
 msgid "Username:"
@@ -442,7 +441,7 @@ msgstr "احراز هویت الزامی است"
 
 msgctxt "AuthenticationDialog|"
 msgid "The site says: \"%1\"."
-msgstr "سایت اعلام می کند: \"%1\"."
+msgstr "سایت می‌گوید: \"%1\"."
 
 msgctxt "AuthenticationDialog|"
 msgid "Username:"
@@ -474,7 +473,7 @@ msgstr "تایید"
 
 msgctxt "AuthenticationPage|"
 msgid "The site says: \"%1\"."
-msgstr "سایت اعلام می کند: \"%1\"."
+msgstr "سایت می‌گوید: \"%1\"."
 
 msgctxt "AuthenticationPage|"
 msgid "Username"
@@ -530,43 +529,43 @@ msgstr "1 روز"
 
 msgctxt "BaseBaseErrorLabel|"
 msgid "Server has returned a web page."
-msgstr ""
+msgstr "سرور یک صفحه وب را برگرداند."
 
 msgctxt "BaseBaseErrorLabel|"
 msgid "Click to open it in the web browser."
-msgstr ""
+msgstr "برای باز کردن آن در مرورگر وب کلیک کنید."
 
 msgctxt "BaseStringListArea|"
 msgid "Please enter one item per line"
-msgstr ""
+msgstr "لطفاً یک مورد در هر خط وارد کنید"
 
 msgctxt "BaseTextArea|"
 msgid "Cut"
-msgstr "منتقل کردن"
+msgstr "برش"
 
 msgctxt "BaseTextArea|"
 msgid "Copy"
-msgstr "کپی کردن"
+msgstr "کپی"
 
 msgctxt "BaseTextArea|"
 msgid "Paste"
-msgstr "قرار دادن"
+msgstr "چسباندن"
 
 msgctxt "BaseTextField|"
 msgid "Cut"
-msgstr "منتقل کردن"
+msgstr "برش"
 
 msgctxt "BaseTextField|"
 msgid "Copy"
-msgstr "کپی کردن"
+msgstr "کپی"
 
 msgctxt "BaseTextField|"
 msgid "Paste"
-msgstr "قرار دادن"
+msgstr "چسباندن"
 
 msgctxt "BatchVideoQuality|"
 msgid "Max. video quality:"
-msgstr ""
+msgstr "حداکثر کیفیت ویدیو:"
 
 msgctxt "BitrateComboBox|"
 msgid "kbps"
@@ -574,7 +573,7 @@ msgstr "کیلوبیت بر ثانیه"
 
 msgctxt "BitrateComboBox|"
 msgid "From %1 %2 to %3 %4"
-msgstr "از %1 %2 به %3 %4"
+msgstr "از %1 %2 تا %3 %4"
 
 msgctxt "BitrateComboBox|"
 msgid "CD quality"
@@ -599,7 +598,7 @@ msgstr "کیفیت پایین"
 msgctxt "BitrateComboBox|"
 msgid "Speech"
 msgstr "گفتار"
-
+```po
 msgctxt "BitrateComboBox|"
 msgid "Lowest quality, smallest file size"
 msgstr "کمترین کیفیت، کوچکترین فایل"
@@ -610,7 +609,7 @@ msgstr "عمومی"
 
 msgctxt "BottomPanelTools|"
 msgid "Details"
-msgstr ""
+msgstr "جزئیات"
 
 msgctxt "BottomPanelTools|"
 msgid "Progress"
@@ -618,35 +617,35 @@ msgstr "پیشرفت"
 
 msgctxt "BottomPanelTools|"
 msgid "Files"
-msgstr "فایل ها"
+msgstr "فایل‌ها"
 
 msgctxt "BottomPanelTools|"
 msgid "Connections"
-msgstr "ارتباطات"
+msgstr "اتصالات"
 
 msgctxt "Browser|"
 msgid "Enter URL"
-msgstr "وارد کردن URL"
+msgstr "آدرس URL را وارد کنید"
 
 msgctxt "Browser|"
 msgid "Bookmark removed"
-msgstr "بوک مارک حذف شد"
+msgstr "بوکمارک حذف شد"
 
 msgctxt "Browser|"
 msgid "Bookmark added"
-msgstr "بوک مارک اضافه شد"
+msgstr "بوکمارک اضافه شد"
 
 msgctxt "Browser|"
 msgid "Bookmarks"
-msgstr "بوک مارک ها"
+msgstr "بوکمارک‌ها"
 
 msgctxt "Browser|"
 msgid "There are no bookmarks at the moment"
-msgstr "در حال حاضر بوک مارکی موجود نیست"
+msgstr "در حال حاضر هیچ بوکمارکی موجود نیست"
 
 msgctxt "Browser|"
 msgid "Are you sure you want to remove this bookmark?"
-msgstr "مطمئن هستید می خواهید این بوک مارک را حذف نمایید؟"
+msgstr "آیا مطمئن هستید که می‌خواهید این بوکمارک را حذف کنید؟"
 
 msgctxt "Browser|"
 msgid "YES"
@@ -658,27 +657,27 @@ msgstr "خیر"
 
 msgctxt "Browser MainMenu|"
 msgid "Back to %1"
-msgstr "برگشت به %1"
+msgstr "بازگشت به %1"
 
 msgctxt "Browser MainMenu|"
 msgid "Bookmarks"
-msgstr "بوک مارک ها"
+msgstr "بوکمارک‌ها"
 
 msgctxt "Browser MainMenu|"
 msgid "Download media"
-msgstr ""
+msgstr "دانلود رسانه"
 
 msgctxt "Browser MainMenu|"
 msgid "Remove bookmark"
-msgstr "حذف بوک مارک"
+msgstr "حذف بوکمارک"
 
 msgctxt "Browser MainMenu|"
 msgid "Add bookmark"
-msgstr "افزودن بوک مارک"
+msgstr "افزودن بوکمارک"
 
 msgctxt "BrowserButton|"
 msgid "Download %1 extension"
-msgstr "%1 افزونه را دانلود کن"
+msgstr "دانلود افزونه %1"
 
 msgctxt "BrowserButton|"
 msgid "%1 is not installed"
@@ -686,19 +685,19 @@ msgstr "%1 نصب نشده است"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Browser Integration"
-msgstr "یکپارچه سازی مرورگر"
+msgstr "یکپارچه‌سازی با مرورگر"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid ""
 "Make sure you have %1 extension installed, otherwise, click one of the "
 "buttons below"
 msgstr ""
-"مطمئن شوید که شما %1 افزونه نصب شده دارید، در غیر اینصورت روی یکی از دکمه "
-"های زیر کلیک کنید"
+"مطمئن شوید که افزونه %1 نصب شده است، در غیر این صورت، بر روی یکی از "
+"دکمه‌های زیر کلیک کنید"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Other supported browsers"
-msgstr "مرورگرهای پشتیبانی شده دیگر"
+msgstr "سایر مرورگرهای پشتیبانی شده"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Automatically catch downloads from browsers"
@@ -706,15 +705,15 @@ msgstr "به طور خودکار دانلودها را از مرورگرها ت�
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Intercept downloads in your web browser"
-msgstr "دانلودها را در مرورگر دنبال کن"
+msgstr "دانلودها را در مرورگر وب خود انتقال بده"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Start downloading without confirmation"
-msgstr "شروع به دانلود کردن بدون نیاز به تایید"
+msgstr "شروع به دانلود بدون نیاز به تأیید"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Skip domains"
-msgstr "نادیده گرفتن دامنه های"
+msgstr "رد دامنه‌ها"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Edit list"
@@ -722,27 +721,27 @@ msgstr "ویرایش لیست"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Are you sure this is a valid domain?"
-msgstr "مطمئن هستید که این یک دامنه معتبر است؟"
+msgstr "آیا مطمئن هستید که این یک دامنه معتبر است؟"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Skip files with extensions"
-msgstr "از دانلود فایل با پسوندهای روبرو صرف نظر کن"
+msgstr "فایل‌هایی با پسوند را نادیده بگیر"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Are you sure this is a valid file extension?"
-msgstr "مطمئن هستید که پسوند این فایل معتبر است؟"
+msgstr "آیا مطمئن هستید که این یک پسوند فایل معتبر است؟"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't catch downloads smaller than"
-msgstr "از دانلود فایل های کوچکتر از این خودداری کن"
+msgstr "دانلودهای کوچک‌تر از این را نادیده بگیر"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Mbytes"
-msgstr "Mbytes"
+msgstr "مگابایت"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Use browser if you cancel download via %1"
-msgstr "اگر از دانلود فایل بوسیله %1 انصراف دادید از مرورگر استفاده شود"
+msgstr "اگر از طریق %1 دانلود را لغو کنید، از مرورگر استفاده شود"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't intercept if INSERT key is pressed"
@@ -759,14 +758,16 @@ msgid ""
 "browser does not provide to %1 (or there is no universal way for all "
 "browsers to do this)."
 msgstr ""
-"شما در حال باز کردن یک مرورگر داخلی هستید.\n"
+"شما در حال باز کردن یک مرورگر وب داخلی هستید.\n"
 "\n"
-"این به شما کمک می کند تا دانلودها را به %1 اضافه کنید.\n"
+"این به شما کمک می‌کند تا دانلودها را به %1 اضافه کنید.\n"
 "\n"
-"بعضی از آنها از جمله دانلودهای گوگل درایو فقط بوسیله این مرورگر می توانند "
-"اضافه شوند زیرا آنها به اطلاعات اضافه ای نیاز دارند که مرورگر سیستم اندروید "
-"شما برای %1 فراهم نمی کند یا اینکه راه حل عمومی برای تمام مرورگرها وجود "
-"ندارد."
+"بعضی از آن‌ها (مانند دانلودهای گوگل درایو) تنها با استفاده از این مرورگر "
+"می‌توانند اضافه شوند، زیرا به اطلاعات اضافی نیاز دارند که مر
+
+ورگر سیستم "
+"اندروید شما برای %1 ارائه نمی‌دهد (یا روش عمومی برای تمام مرورگرها برای "
+"انجام این کار وجود ندارد)."
 
 msgctxt "BrowserIntroDialog|"
 msgid "Continue"
@@ -778,11 +779,11 @@ msgstr "(مرورگر نصب نشده است)"
 
 msgctxt "BtDetailsTab|"
 msgid "N/A"
-msgstr ""
+msgstr "نامشخص"
 
 msgctxt "BtDetailsTab|"
 msgid "(connected: %1)"
-msgstr ""
+msgstr "(متصل شده: %1)"
 
 msgctxt "BtDetailsTab|"
 msgid "Status"
@@ -798,11 +799,11 @@ msgstr "عمومی"
 
 msgctxt "BtSettings|"
 msgid "Monitoring"
-msgstr "مانیتورینگ"
+msgstr "نظارت"
 
 msgctxt "BtSettings|"
 msgid "Open"
-msgstr "باز کردن"
+msgstr "بازکردن"
 
 msgctxt "BtSettings|"
 msgid "Cancel"
@@ -810,27 +811,27 @@ msgstr "انصراف"
 
 msgctxt "BtSettings|"
 msgid "Start downloading without confirmation"
-msgstr "شروع به دانلود کردن بدون نیاز به تایید"
+msgstr "شروع دانلود بدون تأیید"
 
 msgctxt "BtSettings|"
 msgid "Privacy"
-msgstr ""
+msgstr "حریم خصوصی"
 
 msgctxt "BtSettings|"
 msgid "Encryption:"
-msgstr ""
+msgstr "رمزنگاری:"
 
 msgctxt "BtSettings|"
 msgid "No encryption allowed"
-msgstr ""
+msgstr "هیچ رمزنگاری مجاز نیست"
 
 msgctxt "BtSettings|"
 msgid "Prefer encryption"
-msgstr ""
+msgstr "ترجیحاً رمزنگاری شود"
 
 msgctxt "BtSettings|"
 msgid "Require encryption"
-msgstr ""
+msgstr "رمزنگاری الزامی است"
 
 msgctxt "BtSettings|"
 msgid "Advanced"
@@ -838,11 +839,11 @@ msgstr "پیشرفته"
 
 msgctxt "BtSettings|"
 msgid "Current port: %1"
-msgstr ""
+msgstr "پورت فعلی: %1"
 
 msgctxt "BtSettings|"
 msgid "Custom port:"
-msgstr ""
+msgstr "پورت سفارشی:"
 
 msgctxt "BtSettings|"
 msgid ""
@@ -850,6 +851,9 @@ msgid ""
 "Lists of such trackers can be retrieved from different sources, e.g. from <a "
 "href='https://github.com/ngosang/trackerslist'>here</a>."
 msgstr ""
+"استفاده از ردیاب‌های اضافی می‌تواند در برخی موارد سرعت دانلود را افزایش "
+"دهد. لیست‌هایی از این ردیاب‌ها می‌توانند از منابع مختلف به دست آید، به عنوان مثال "
+"از <a href='https://github.com/ngosang/trackerslist'>اینجا</a>."
 
 msgctxt "BtStrings|"
 msgid "Uploaded"
@@ -897,8 +901,9 @@ msgstr "گزارش مشکل"
 
 msgctxt "BuildDownloadPage|"
 msgid "Downloading from this site is not allowed"
-msgstr "دانلود کردن از این سایت مجاز نیست"
+msgstr "دانلود از این سایت مجاز نیست"
 
+```po
 msgctxt "BuildDownloadTools|"
 msgid "The proxy %1 requires a username and password."
 msgstr "پراکسی %1 به یک نام کاربری و رمز عبور درخواست نیاز دارد."
@@ -913,15 +918,15 @@ msgstr "در حال دریافت اطلاعات. منتظر باشید..."
 
 msgctxt "ButtonsBlock|"
 msgid "Please select download link"
-msgstr "لطفا لینک دانلود را انتخاب کنید"
+msgstr "لطفاً لینک دانلود را انتخاب کنید"
 
 msgctxt "ButtonsBlock|"
 msgid "You can select no more than %1 links at a time"
-msgstr "شما نمی توانید در یک لحظه بیشتر از %1 لینک انتخاب کنید"
+msgstr "شما نمی‌توانید در یک لحظه بیشتر از %1 لینک انتخاب کنید"
 
 msgctxt "ButtonsBlock|"
 msgid "No write access to the selected directory"
-msgstr "مجوز نوشتن برای پوشه انتخاب شده وجود ندارد"
+msgstr "دسترسی به نوشتن برای پوشه انتخابی وجود ندارد"
 
 msgctxt "ButtonsBlock|"
 msgid "Not enough disk space"
@@ -933,7 +938,7 @@ msgstr "مسیر دارای کاراکترهای غیر معتبر است"
 
 msgctxt "ButtonsBlock|"
 msgid "The subfolder name contains invalid characters"
-msgstr "زیرپوشه دارای کاراکترهای غیر معتبر است"
+msgstr "نام زیرپوشه دارای کاراکترهای غیر معتبر است"
 
 msgctxt "ButtonsBlock|"
 msgid "The filename contains invalid characters"
@@ -945,7 +950,7 @@ msgstr "انصراف"
 
 msgctxt "ButtonsBlock|"
 msgid "Download"
-msgstr "دریافت"
+msgstr "دانلود"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Change download URL"
@@ -997,17 +1002,18 @@ msgstr "شروع دانلود"
 
 msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid "Extraneous files are detected"
-msgstr ""
+msgstr "فایل‌های اضافی شناسایی شده‌اند"
 
 msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid ""
 "The following folder contains extraneous files. Do you still want to delete "
 "it?"
 msgstr ""
+"پوشه زیر حاوی فایل‌های اضافی است. آیا می‌خواهید آن را حذف کنید؟"
 
 msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid "Delete anyway"
-msgstr ""
+msgstr "به هر حال حذف کن"
 
 msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid "Cancel"
@@ -1015,33 +1021,35 @@ msgstr "انصراف"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Connect to remote %1"
-msgstr ""
+msgstr "اتصال به %1 از راه دور"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "(beta)"
-msgstr ""
+msgstr "(نسخه آزمایشی)"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Here you can connect to %1 running on another device."
-msgstr ""
+msgstr "در اینجا می‌توانید به %1 که در دستگاه دیگری در حال اجراست متصل شوید."
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Automatically connect at startup"
-msgstr ""
+msgstr "اتصال خودکار در زمان شروع"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Please enter %1, or <a href='#'>scan QR code</a>"
-msgstr ""
+msgstr "لطفاً %1 را وارد کنید یا <a href='#'>کد QR</a> را اسکن کنید"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid ""
 "Both %1 and QR code are located inside of Preferences page of %2 you're "
 "going to connect to."
 msgstr ""
+"%1 و کد QR هر دو داخل صفحه ترجیحات %2 که می‌خواهید به آن متصل شوید قرار "
+"دارند."
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Automatically connect at %1 startup"
-msgstr ""
+msgstr "اتصال خودکار در زمان شروع %1"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Cancel"
@@ -1068,12 +1076,14 @@ msgid "Port"
 msgstr "پورت"
 
 msgctxt "ConnectionsTab|"
-msgid "Connection count"
+msgid "
+
+Connection count"
 msgstr "تعداد ارتباط"
 
 msgctxt "ConvertDestinationFilesExistsDialog|"
-msgid "Destination files already exists"
-msgstr ""
+msgid "Destination files already exist"
+msgstr "فایل‌های مقصد از قبل موجود هستند"
 
 msgctxt "ConvertDestinationFilesExistsDialog|"
 msgid "Overwrite All"
@@ -1081,11 +1091,11 @@ msgstr "جایگزینی همه"
 
 msgctxt "ConvertDestinationFilesExistsDialog|"
 msgid "Rename All"
-msgstr "تغییر اسم همه"
+msgstr "تغییر نام همه"
 
 msgctxt "ConvertDestinationFilesExistsDialog|"
 msgid "Skip All"
-msgstr ""
+msgstr "رد کردن همه"
 
 msgctxt "ConvertDestinationFilesExistsDialog|"
 msgid "Abort"
@@ -1093,7 +1103,7 @@ msgstr "لغو"
 
 msgctxt "ConvertFilesFailedDialog|"
 msgid "Failed to convert"
-msgstr "ناموفق در تبدیل"
+msgstr "تبدیل ناموفق بود"
 
 msgctxt "ConvertFilesFailedDialog|"
 msgid "OK"
@@ -1105,23 +1115,23 @@ msgstr "تبدیل ناموفق بود"
 
 msgctxt "CopyLinkMenu|"
 msgid "Copy link"
-msgstr "کپی کردن لینک"
+msgstr "کپی لینک"
 
 msgctxt "CopyMenu|"
 msgid "Copy"
-msgstr "کپی کردن"
+msgstr "کپی"
 
 msgctxt "CppQmlApp|"
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "آیا مطمئنید که می‌خواهید خارج شوید؟"
 
 msgctxt "CppQmlAppRcServer|"
 msgid "Starting..."
-msgstr ""
+msgstr "در حال شروع..."
 
 msgctxt "CppQmlAppRcServer|"
 msgid "Failed to start."
-msgstr ""
+msgstr "شروع ناموفق بود."
 
 msgctxt "CppQmlAppRcServer|"
 msgid "Error: %1"
@@ -1135,16 +1145,16 @@ msgctxt "CrashReporter|"
 msgid ""
 "An internal error occurred.<br>%1 needs to be restarted for further use."
 msgstr ""
-"یک خطای داخلی رخ داده است. <br>%1 نیاز دارد برای استفاده بعدی دوباره شروع "
-"شود."
+"یک خطای داخلی رخ داده است.<br>%1 برای استفاده بیشتر نیاز به دوباره "
+"شروع شدن دارد."
 
 msgctxt "CrashReporter|"
 msgid "Restart %1 automatically"
-msgstr "شروع خودکار %1"
+msgstr "دوباره شروع خودکار %1"
 
 msgctxt "CrashReporter|"
 msgid "Failed to send the report.<br>Check your Internet connection."
-msgstr "ارسال گزارش انجام نشد.<br>اتصال اینترنت خود را بررسی کنید."
+msgstr "ارسال گزارش ناموفق بود.<br>اتصال اینترنت خود را بررسی کنید."
 
 msgctxt "CrashReporter|"
 msgid "Error"
@@ -1152,7 +1162,7 @@ msgstr "خطا"
 
 msgctxt "CreateFolderDialog|"
 msgid "Create folder"
-msgstr "ایجاد پوشه"
+msgstr "ساخت پوشه"
 
 msgctxt "CreateFolderDialog|"
 msgid "OK"
@@ -1164,27 +1174,27 @@ msgstr "انصراف"
 
 msgctxt "CreatePortableDialog|"
 msgid "Create portable version"
-msgstr "ساخت نسخه قابل حمل"
+msgstr "ایجاد نسخه قابل حمل"
 
 msgctxt "CreatePortableDialog|"
 msgid ""
 "Portable version of %1 can be used on different computers without the need "
 "to install and configure it on each of them."
 msgstr ""
-"نسخه قابل حمل %1 قابلیت استفاده در رایانه های مختلف را بدون نیاز به نصب و "
-"تنظیم مجدد در هر یک را داراست."
+"نسخه قابل حمل %1 می‌تواند بدون نیاز به نصب و پیکربندی روی رایانه‌های "
+"مختلف استفاده شود."
 
 msgctxt "CreatePortableDialog|"
 msgid "It can be conveniently placed on a flash disk, for example."
-msgstr "به طور مثال میتواند به راحتی در یک فلش مموری قرار گیرد."
+msgstr "به طور مثال، می‌تواند به راحتی بر روی یک دیسک فلش قرار گیرد."
 
 msgctxt "CreatePortableDialog|"
 msgid ""
 "Specify here the path where you would like to create this version. It should "
 "be a folder on some removable drive."
 msgstr ""
-"اینجا مسیر محلی که تمایل به ایجاد این نسخه را دارید مشخص کنید. این مسیر باید "
-"به یک فولدر در یک فضای ذخیره سازی قابل حمل ختم شود."
+"در اینجا مسیری را مشخص کنید که می‌خواهید این نسخه را ایجاد کنید. این "
+"مسیر باید یک پوشه در یک درایو قابل جابجایی باشد."
 
 msgctxt "CreatePortableDialog|"
 msgid "Open"
@@ -1196,8 +1206,8 @@ msgstr "انصراف"
 
 msgctxt "CreatePortableDialog|"
 msgid "Please specify the path."
-msgstr "لطفا مسیر را مشخص کنید."
-
+msgstr "لطفاً مسیر را مشخص کنید."
+ 
 msgctxt "CreatePortableDialog|"
 msgid "OK"
 msgstr "تایید"
