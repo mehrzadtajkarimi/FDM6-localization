@@ -1854,6 +1854,443 @@ msgstr "بستن"
 msgctxt "FileIntegrityPage|"
 msgid "Check file integrity"
 msgstr "بررسی یکپارچگی فایل"
+msgctxt "FileIntegrityDialog|"
+msgid "Checking..."
+msgstr "در حال بررسی..."
+
+msgctxt "FileIntegrityDialog|"
+msgid "File integrity check completed successfully."
+msgstr "بررسی یکپارچگی فایل با موفقیت انجام شد."
+
+msgctxt "FileIntegrityDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "FileIntegrityDialog|"
+msgid "File integrity check failed."
+msgstr "بررسی یکپارچگی فایل ن
+
+اموفق بود."
+
+msgctxt "FileIntegrityDialog|"
+msgid "Details"
+msgstr "جزئیات"
+
+msgctxt "FileIntegrityDialog|"
+msgid "Close"
+msgstr "بستن"
+
+msgctxt "FolderSelectDialog|"
+msgid "Select folder"
+msgstr "انتخاب پوشه"
+
+msgctxt "FolderSelectDialog|"
+msgid "Open"
+msgstr "باز کردن"
+
+msgctxt "FolderSelectDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "FolderSelectDialog|"
+msgid "Please specify the folder."
+msgstr "لطفاً پوشه را مشخص کنید."
+
+msgctxt "FolderSelectDialog|"
+msgid "Please select an existing folder."
+msgstr "لطفاً یک پوشه موجود را انتخاب کنید."
+
+msgctxt "FolderSelectDialog|"
+msgid "New folder"
+msgstr "پوشه جدید"
+
+msgctxt "FolderSelectDialog|"
+msgid "Enter folder name:"
+msgstr "نام پوشه را وارد کنید:"
+
+msgctxt "FolderSelectDialog|"
+msgid "The folder already exists. Do you want to replace it?"
+msgstr "پوشه از قبل وجود دارد. آیا می‌خواهید آن را جایگزین کنید؟"
+
+msgctxt "FolderSelectDialog|"
+msgid "The folder already exists. Do you want to merge them?"
+msgstr "پوشه از قبل وجود دارد. آیا می‌خواهید آنها را ادغام کنید؟"
+
+msgctxt "FolderSelectDialog|"
+msgid "The folder already exists. Do you want to rename it?"
+msgstr "پوشه از قبل وجود دارد. آیا می‌خواهید آن را تغییر نام دهید؟"
+
+msgctxt "FolderSelectDialog|"
+msgid "The folder already exists. Do you want to use it?"
+msgstr "پوشه از قبل وجود دارد. آیا می‌خواهید از آن استفاده کنید؟"
+
+msgctxt "FolderSelectDialog|"
+msgid "The folder already exists. Do you want to skip it?"
+msgstr "پوشه از قبل وجود دارد. آیا می‌خواهید آن را رد کنید؟"
+
+msgctxt "FolderSelectDialog|"
+msgid "Please enter a valid folder name."
+msgstr "لطفاً یک نام معتبر برای پوشه وارد کنید."
+
+msgctxt "HashCalcDialog|"
+msgid "Calculating hash"
+msgstr "محاسبه هش"
+
+msgctxt "HashCalcDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "HashCalcDialog|"
+msgid "File:"
+msgstr "فایل:"
+
+msgctxt "HashCalcDialog|"
+msgid "Algorithm:"
+msgstr "الگوریتم:"
+
+msgctxt "HashCalcDialog|"
+msgid "MD5"
+msgstr "MD5"
+
+msgctxt "HashCalcDialog|"
+msgid "SHA-1"
+msgstr "SHA-1"
+
+msgctxt "HashCalcDialog|"
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgctxt "HashCalcDialog|"
+msgid "SHA-512"
+msgstr "SHA-512"
+
+msgctxt "HashCalcDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "HashCalcDialog|"
+msgid "Hash:"
+msgstr "هش:"
+
+msgctxt "LinkExtractorDialog|"
+msgid "Extract links"
+msgstr "استخراج لینک ها"
+
+msgctxt "LinkExtractorDialog|"
+msgid "Web page:"
+msgstr "صفحه وب:"
+
+msgctxt "LinkExtractorDialog|"
+msgid "Extract"
+msgstr "استخراج"
+
+msgctxt "LinkExtractorDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "LinkExtractorDialog|"
+msgid "Extracting links..."
+msgstr "در حال استخراج لینک ها..."
+
+msgctxt "LinkExtractorDialog|"
+msgid "Links extracted successfully."
+msgstr "لینک ها با موفقیت استخراج شدند."
+
+msgctxt "LinkExtractorDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "MainMenu|"
+msgid "About"
+msgstr "درباره"
+
+msgctxt "MainMenu|"
+msgid "Hide"
+msgstr "پنهان"
+
+msgctxt "MainMenu|"
+msgid "Hide others"
+msgstr "پنهان کردن دیگران"
+
+msgctxt "MainMenu|"
+msgid "Show all"
+msgstr "نمایش همه"
+
+msgctxt "MainMenu|"
+msgid "Quit"
+msgstr "خروج"
+
+msgctxt "NewFolderDialog|"
+msgid "Create folder"
+msgstr "ساخت پوشه"
+
+msgctxt "NewFolderDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "NewFolderDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "NewFolderDialog|"
+msgid "Please enter a folder name."
+msgstr "لطفاً یک نام برای پوشه وارد کنید."
+
+msgctxt "NewFolderDialog|"
+msgid "The folder name is too long."
+msgstr "نام پوشه خیلی طولانی است."
+
+msgctxt "NewFolderDialog|"
+msgid "The folder name contains invalid characters."
+msgstr "نام پوشه شامل کاراکترهای نامعتبر است."
+
+msgctxt "OverwriteFilesDialog|"
+msgid "File already exists"
+msgstr "فایل از قبل موجود است"
+
+msgctxt "OverwriteFilesDialog|"
+msgid "Overwrite"
+msgstr "جایگزینی"
+
+msgctxt "OverwriteFilesDialog|"
+msgid "Rename"
+msgstr "تغییر نام"
+
+msgctxt "OverwriteFilesDialog|"
+msgid "Skip"
+msgstr "رد کردن"
+
+msgctxt "OverwriteFilesDialog|"
+msgid "Overwrite all"
+msgstr "جایگزینی همه"
+
+msgctxt "OverwriteFilesDialog|"
+msgid "Rename all"
+msgstr "تغییر نام همه"
+
+msgctxt "OverwriteFilesDialog|"
+msgid "Skip all"
+msgstr "رد کردن همه"
+
+msgctxt "RemoveFromListDialog|"
+msgid "Remove from list"
+msgstr "حذف از لیست"
+
+msgctxt "RemoveFromListDialog|"
+msgid "Remove"
+msgstr "حذف"
+
+msgctxt "RemoveFromListDialog|"
+msgid "Remove all"
+msgstr "حذف همه"
+
+msgctxt "RemoveFromListDialog|"
+msgid "Close"
+msgstr "بستن"
+
+msgctxt "RenameFileDialog|"
+msgid "Rename file"
+msgstr "تغییر نام فایل"
+
+msgctxt "RenameFileDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "RenameFileDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "RenameFileDialog|"
+msgid "New name:"
+msgstr "نام جدید:"
+
+msgctxt "ResumeFailedDownloadsDialog|"
+msgid "Resume failed downloads"
+msgstr "سرگیری دانلودهای ناموفق"
+
+msgctxt "ResumeFailedDownloadsDialog|"
+msgid "Retry"
+msgstr "تلاش مجدد"
+
+msgctxt "ResumeFailedDownloadsDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "ResumeFailedDownloadsDialog|"
+msgid "Skip"
+msgstr "رد کردن"
+
+msgctxt "SelectFileToUploadDialog|"
+msgid "Select file to upload"
+msgstr "انتخاب فایل برای بارگذاری"
+
+msgctxt "SelectFileToUploadDialog|"
+msgid "Open"
+msgstr "باز کردن"
+
+msgctxt "SelectFileToUploadDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "SelectFileToUploadDialog|"
+msgid "No file selected"
+msgstr "فایلی انتخاب نشده است"
+
+msgctxt "SelectFileToUploadDialog|"
+msgid "Please select a file to upload."
+msgstr "لطفاً یک فایل برای بارگذاری انتخاب کنید."
+
+msgctxt "SelectFilesToUploadDialog|"
+msgid "Select files to upload"
+msgstr "انتخاب فایل ها برای بارگذاری"
+
+msgctxt "SelectFilesToUploadDialog|"
+msgid "Open"
+msgstr "باز کردن"
+
+msgctxt "SelectFilesToUploadDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "SelectFilesToUploadDialog|"
+msgid "No files selected"
+msgstr "فایلی انتخاب نشده است"
+
+msgctxt "SelectFilesToUploadDialog|"
+msgid "Please select one or more files to upload."
+msgstr "لطفاً یک یا چند فایل برای بارگذاری انتخاب کنید."
+
+msgctxt "SetPriorityDialog|"
+msgid "Set priority"
+msgstr "انتخاب اولویت"
+
+msgctxt "SetPriorityDialog|"
+msgid "Priority"
+msgstr "اولویت"
+
+msgctxt "SetPriorityDialog|"
+msgid "High"
+msgstr "زیاد"
+
+msgctxt "SetPriorityDialog|"
+msgid "Normal"
+msgstr "معمولی"
+
+msgctxt "SetPriorityDialog|"
+msgid "Low"
+msgstr "کم"
+
+msgctxt "SetPriorityDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "SetPriorityDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "TagEditorDialog|"
+msgid "Tags"
+msgstr "برچسب ها"
+
+msgctxt "TagEditorDialog|"
+msgid "Add"
+msgstr "افزودن"
+
+msgctxt "TagEditorDialog|"
+msgid "Remove"
+msgstr "حذف"
+
+msgctxt "TagEditorDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "TagEditorDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "TagEditorDialog|"
+msgid "Please enter a tag name."
+msgstr "لطفاً یک نام برچسب وارد کنید."
+
+msgctxt "TagEditorDialog|"
+msgid "Tag name is too long."
+msgstr "نام برچسب خیلی طولانی است."
+
+msgctxt "TagEditorDialog|"
+msgid "Tag name contains invalid characters."
+msgstr "نام برچسب شامل کاراکترهای نامعتبر است."
+
+msgctxt "TagEditorDialog|"
+msgid "The tag already exists."
+msgstr "برچسب از قبل وجود دارد."
+
+msgctxt "TagEditorDialog|"
+msgid "Tag name is too short."
+msgstr "نام برچسب خیلی کوتاه است."
+
+msgctxt "TagEditorDialog|"
+msgid "Tag name is not unique."
+msgstr "نام برچسب یکتا نیست."
+
+msgctxt "TagEditorDialog|"
+msgid "Select a tag."
+msgstr "یک برچسب انتخاب کنید."
+
+msgctxt "TagEditorDialog|"
+msgid "Select a tag to remove."
+msgstr "یک برچسب برای حذف انتخاب کنید."
+
+msgctxt "TagEditorDialog|"
+msgid "The tag has been removed."
+msgstr "برچسب حذف شده است."
+
+msgctxt "UnzipDialog|"
+msgid "Extracting archive..."
+msgstr "در حال استخراج آرشیو..."
+
+msgctxt "UnzipDialog|"
+msgid "Extracted successfully."
+msgstr "استخراج با موفقیت انجام شد."
+
+msgctxt "UnzipDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "UploadDialog|"
+msgid "Uploading..."
+msgstr "در حال بارگذاری..."
+
+msgctxt "UploadDialog|"
+msgid "Upload completed successfully."
+msgstr "بارگذاری با موفقیت انجام شد."
+
+msgctxt "UploadDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "UploadDialog|"
+msgid "Upload failed."
+msgstr "بارگذاری ناموفق بود."
+
+msgctxt "UploadDialog|"
+msgid "Retry"
+msgstr "تلاش مجدد"
+
+msgctxt "UploadDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "ZipDialog|"
+msgid "Compressing..."
+msgstr "در حال فشرده سازی..."
+
+msgctxt "ZipDialog|"
+msgid "Compression completed successfully."
+msgstr "فشرده سازی با موفقیت انجام شد."
+
+msgctxt "ZipDialog|"
+msgid "OK"
+msgstr "تایید"
 
 msgctxt "FileIntegrityPage|"
 msgid "MD5"
