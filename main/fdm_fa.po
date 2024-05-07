@@ -1207,798 +1207,626 @@ msgstr "انصراف"
 msgctxt "CreatePortableDialog|"
 msgid "Please specify the path."
 msgstr "لطفاً مسیر را مشخص کنید."
- 
-msgctxt "CreatePortableDialog|"
-msgid "OK"
-msgstr "تایید"
+ msgctxt "FileIntegrityDialog|"
+msgid "Checking file integrity..."
+msgstr "در حال بررسی یکپارچگی فایل..."
 
-msgctxt "CreatePortableDialog|"
-msgid "Creating %1%"
-msgstr "ایجاد %1%"
+msgctxt "FileIntegrityDialog|"
+msgid "File is missing"
+msgstr "فایل موجود نیست"
 
-msgctxt "CreatePortableDialog|"
-msgid "An error occurred while creating a portable version: %1"
-msgstr "خطایی حین ایجاد نسخه قابل حمل بوجود امد: %1"
+msgctxt "FileIntegrityDialog|"
+msgid "File is damaged"
+msgstr "فایل آسیب دیده است"
 
-msgctxt "CreatePortableDialog|"
-msgid "Creating a portable version was successfully completed."
-msgstr "نسخه قابل حمل به صورت موفقیت امیز ایجاد شد."
+msgctxt "FileIntegrityDialog|"
+msgid "File is intact"
+msgstr "فایل سالم است"
 
-msgctxt "CreatePortableDialog|"
+msgctxt "FileIntegrityDialog|"
 msgid "Close"
 msgstr "بستن"
 
-msgctxt "CustomizeSoundsDialog|"
-msgid "Customize sounds"
-msgstr "شخصی سازی صداها"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Event"
-msgstr "رخداد"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Sound file"
-msgstr "فایل صدا"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "No sound"
-msgstr "بدون صدا"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Downloads added"
-msgstr "دانلودها افزوده شد"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Downloads completed"
-msgstr "دانلودها تمام شده"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Downloads failed"
-msgstr "دانلودها انجام نشد"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "No active downloads"
-msgstr "دانلود فعالی وجود ندارد"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Set sound"
-msgstr "تنظیم صدا"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Remove"
-msgstr "حذف"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Test"
-msgstr "تست"
-
-msgctxt "CustomizeSoundsDialog|"
-msgid "Close"
-msgstr "بستن"
-
-msgctxt "DeleteDownloadsDialog|"
-msgid "Delete selected downloads"
-msgstr "حذف دانلودهای انتخاب شده"
-
-msgctxt "DeleteDownloadsDialog|"
-msgid "Remember my choice"
-msgstr "انتخاب من را به یاد داشته باش"
-
-msgctxt "DeleteDownloadsDialog|"
-msgid "Delete files"
-msgstr "حذف فایل ها"
-
-msgctxt "DeleteDownloadsDialog|"
-msgid "Remove from list"
-msgstr "حذف از لیست"
-
-msgctxt "DeleteDownloadsDialog|"
-msgid "Cancel"
-msgstr "انصراف"
-
-msgctxt "DeleteDownloadsDialog|"
+msgctxt "FileIntegrityDialog|"
 msgid "OK"
 msgstr "تایید"
 
-msgctxt "DeleteDownloadsDialog|"
-msgid "Delete this file?"
-msgstr "این فایل حذف شود؟"
+msgctxt "FileIntegrityDialog|"
+msgid "File is being used by another application"
+msgstr "فایل توسط یک برنامه دیگر استفاده می‌شود"
 
-msgctxt "DeleteDownloadsDialog|"
-msgid "Delete selected files?"
-msgstr "فایل های انتخاب شده حذف شوند؟"
+msgctxt "FileIntegrityDialog|"
+msgid "Failed to check file integrity"
+msgstr "بررسی یکپارچگی فایل ناموفق بود"
 
-msgctxt "DeleteDownloadsDialogSimple|"
-msgid "Delete selected downloads"
-msgstr "حذف دانلودهای انتخاب شده"
+msgctxt "FileIntegrityDialog|"
+msgid "Retry"
+msgstr "تلاش مجدد"
 
-msgctxt "DeleteDownloadsDialogSimple|"
-msgid "Are you sure you want to delete the selected file(s)?"
-msgstr "آیا مطمئن هستید که میخواهید فایل(های) انتخاب شده حذف شود؟"
-
-msgctxt "DeleteDownloadsDialogSimple|"
-msgid "OK"
-msgstr "تایید"
-
-msgctxt "DeleteDownloadsDialogSimple|"
-msgid "Cancel"
-msgstr "انصراف"
-
-msgctxt "DeleteDownloadsFailedDialog|"
-msgid "Download deleting failed"
-msgstr "حذف بارگیری انجام نشد"
-
-msgctxt "DeleteDownloadsFailedDialog|"
-msgid "Try again"
-msgstr "دوباره امتحان کنید"
-
-msgctxt "DeleteDownloadsFailedDialog|"
+msgctxt "FileIntegrityDialog|"
 msgid "Ignore"
-msgstr "صرف نظر"
+msgstr "نادیده گرفتن"
 
-msgctxt "DeleteDownloadsFailedDialog|"
-msgid "Ignore all"
-msgstr "صرف نظر از همه"
-
-msgctxt "DeleteDownloadsFailedDialog|"
+msgctxt "FileIntegrityDialog|"
 msgid "Abort"
 msgstr "لغو"
 
-msgctxt "DiskSpace|"
-msgid "Size: %1 (Disk space: %2)"
-msgstr "حجم: %1 (فضای دیسک: %2)"
+msgctxt "FileIntegrityDialog|"
+msgid "Open file"
+msgstr "باز کردن فایل"
 
-msgctxt "DiskSpace|"
-msgid "Disk space: %1"
-msgstr ""
+msgctxt "FileIntegrityDialog|"
+msgid "Choose another file"
+msgstr "انتخاب فایل دیگری"
 
-msgctxt "DiskSpace|"
-msgid "Size: %1"
-msgstr "حجم: %1"
+msgctxt "FileIntegrityDialog|"
+msgid "Retry with a delay"
+msgstr "تلاش مجدد با تاخیر"
 
-msgctxt "DockUploadSpeedSetting|"
-msgid "Show total upload speed in the Dock icon"
-msgstr ""
+msgctxt "FileIntegrityDialog|"
+msgid "Failed to access the file"
+msgstr "دسترسی به فایل ناموفق بود"
 
-msgctxt "DownloadExpiredDialog|"
-msgid "Download Failure"
-msgstr ""
+msgctxt "FileIntegrityDialog|"
+msgid "File is locked"
+msgstr "فایل قفل شده است"
 
-msgctxt "DownloadExpiredDialog|"
-msgid ""
-"Can't resume download. Download link likely expired. Resume attempts failed."
-msgstr ""
+msgctxt "FileIntegrityDialog|"
+msgid "File is being modified"
+msgstr "فایل در حال تغییر است"
 
-msgctxt "DownloadExpiredDialog|"
-msgid "Please try to update the download link to resume."
-msgstr ""
+msgctxt "FileIntegrityDialog|"
+msgid "File integrity check failed"
+msgstr "بررسی یکپارچگی فایل ناموفق بود"
 
-msgctxt "DownloadExpiredDialog|"
-msgid ""
-"Go to the website with the original download source and copy the renewed link"
-msgstr ""
+msgctxt "FileIntegrityDialog|"
+msgid "File integrity check aborted"
+msgstr "بررسی یکپارچگی فایل لغو شد"
 
-msgctxt "DownloadExpiredDialog|"
-msgid "click here"
-msgstr "اینجا کلیک کنید"
+msgctxt "FileIntegrityDialog|"
+msgid "File integrity check successful"
+msgstr "بررسی یکپارچگی فایل موفقیت‌آمیز بود"
 
-msgctxt "DownloadExpiredDialog|"
-msgid "Update download"
-msgstr ""
+msgctxt "FileNameConflictDialog|"
+msgid "File already exists"
+msgstr "فایل از قبل موجود است"
 
-msgctxt "DownloadExpiredDialog|"
+msgctxt "FileNameConflictDialog|"
+msgid "Replace"
+msgstr "جایگزینی"
+
+msgctxt "FileNameConflictDialog|"
+msgid "Skip"
+msgstr "رد کردن"
+
+msgctxt "FileNameConflictDialog|"
+msgid "Rename"
+msgstr "تغییر اسم"
+
+msgctxt "FileNameConflictDialog|"
+msgid "Replace all"
+msgstr "جایگزینی همه"
+
+msgctxt "FileNameConflictDialog|"
+msgid "Skip all"
+msgstr "رد کردن همه"
+
+msgctxt "FileNameConflictDialog|"
+msgid "Rename all"
+msgstr "تغییر نام همه"
+
+msgctxt "FileNameConflictDialog|"
+msgid "File with the same name already exists. What would you like to do?"
+msgstr "فایل با همین نام از قبل موجود است. چه کاری می‌خواهید انجام دهید؟"
+
+msgctxt "FileRenamedDialog|"
+msgid "File renamed successfully"
+msgstr "فایل با موفقیت تغییر نام یافت"
+
+msgctxt "FileRenamedDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "FileRenamedDialog|"
+msgid "File renamed to:"
+msgstr "فایل تغییر نام داده شد به:"
+
+msgctxt "FileRenamedDialog|"
 msgid "Close"
 msgstr "بستن"
 
-msgctxt "DownloadWindow|"
-msgid "[%1%] - %2"
-msgstr ""
+msgctxt "FilterBar|"
+msgid "Filter..."
+msgstr "فیلتر..."
 
-msgctxt "DownloadWindow|"
-msgid "Web page:"
-msgstr ""
-
-msgctxt "DownloadWindow|"
-msgid "Resource URL:"
-msgstr ""
-
-msgctxt "DownloadWindow|"
-msgid "Saved in"
-msgstr "ذخیره شده در"
-
-msgctxt "DownloadWindow|"
-msgid "File size"
-msgstr "اندازه فایل"
-
-msgctxt "DownloadWindow|"
-msgid "Resume support"
-msgstr "پشتیبانی ازسرگیری"
-
-msgctxt "DownloadWindow|"
-msgid "Yes"
-msgstr "بله"
-
-msgctxt "DownloadWindow|"
-msgid "No"
-msgstr "نه"
-
-msgctxt "DownloadWindow|"
-msgid "Unknown"
-msgstr "ناشناخته"
-
-msgctxt "DownloadWindow|"
-msgid "Downloaded"
-msgstr "دانلود شده"
-
-msgctxt "DownloadWindow|"
-msgid "%1% [%2]"
-msgstr ""
-
-msgctxt "DownloadWindow|"
-msgid "Speed"
-msgstr "سرعت"
-
-msgctxt "DownloadWindow|"
-msgid "Time remaining"
-msgstr "زمان باقی مانده"
-
-msgctxt "DownloadWindow|"
-msgid "Open download when it is completed"
-msgstr "دانلود را هنگامی که تکمیل شده است باز کن"
-
-msgctxt "DownloadWindow|"
-msgid "Close this window when the download is completed or stopped"
-msgstr "این پنجره را هنگامی که دانلود تکمیل یا متوقف شده است ببند"
-
-msgctxt "DownloadWindow|"
-msgid "Remember to always close by default"
-msgstr ""
-
-msgctxt "DownloadWindow|"
-msgid "Remember to never close by default"
-msgstr ""
-
-msgctxt "DownloadWindow|"
-msgid "Hide"
-msgstr "پنهان"
-
-msgctxt "DownloadWindow|"
-msgid "Show in folder"
-msgstr "نمایش در پوشه"
-
-msgctxt "DownloadWindow|"
+msgctxt "FolderPicker|"
 msgid "Open"
 msgstr "باز کردن"
 
-msgctxt "DownloadWindow|"
-msgid "Stop"
-msgstr "توقف"
+msgctxt "FolderPicker|"
+msgid "Cancel"
+msgstr "انصراف"
 
-msgctxt "DownloadWindow|"
-msgid "Start"
-msgstr "آغاز"
+msgctxt "FolderPicker|"
+msgid "Choose folder"
+msgstr "انتخاب پوشه"
 
-msgctxt "DownloadsItemTools|"
-msgid "Moving"
-msgstr ""
+msgctxt "ImportSettingsDialog|"
+msgid "Import"
+msgstr "وارد کردن"
 
-msgctxt "DownloadsItemTools|"
-msgid "Checking for viruses"
-msgstr "در حال بررسی برای ویروس ها"
+msgctxt "ImportSettingsDialog|"
+msgid "Cancel"
+msgstr "انصراف"
 
-msgctxt "DownloadsItemTools|"
-msgid "Converting to mp3"
-msgstr "در حال تبدیل به mp3"
+msgctxt "ImportSettingsDialog|"
+msgid "All files (%1)"
+msgstr "تمام فایل ها (%1)"
 
-msgctxt "DownloadsItemTools|"
-msgid "Converting to mp4"
-msgstr "در حال تبدیل به mp4"
+msgctxt "ImportSettingsDialog|"
+msgid "Please select a file to import"
+msgstr "لطفاً یک فایل برای وارد کردن انتخاب کنید"
 
-msgctxt "DownloadsItemTools|"
-msgid "Calculating hash"
-msgstr "محاسبه هش"
+msgctxt "ImportSettingsDialog|"
+msgid "File not found"
+msgstr "فایل یافت نشد"
 
-msgctxt "DownloadsItemTools|"
-msgid "File is missing"
-msgstr "فایل موجود نیست"
+msgctxt "ImportSettingsDialog|"
+msgid "Failed to import settings"
+msgstr "وارد کردن تنظیمات ناموفق بود"
 
-msgctxt "DownloadsItemTools|"
-msgid "Disk is missing"
-msgstr "دیسک موجود نیست"
+msgctxt "ImportSettingsDialog|"
+msgid "Settings imported successfully"
+msgstr "تنظیمات با موفقیت وارد شدند"
 
-msgctxt "DownloadsList|"
-msgid "Download links (%1 selected)"
-msgstr "لینک های دانلود (%1 انتخاب شده است)"
+msgctxt "ImportSettingsDialog|"
+msgid "OK"
+msgstr "تایید"
 
-msgctxt "DownloadsList|"
-msgid "Select all"
-msgstr "انتخاب همه"
+msgctxt "ImportSettingsDialog|"
+msgid "Close"
+msgstr "بستن"
 
-msgctxt "DownloadsList|"
-msgid "Select none"
-msgstr "انتخاب هیچ کدام"
+msgctxt "LanguageSwitcher|"
+msgid "Language"
+msgstr "زبان"
 
-msgctxt "DownloadsPage|"
-msgid "Download list is empty."
-msgstr "لیست دانلود خالی است."
+msgctxt "LanguageSwitcher|"
+msgid "Select language"
+msgstr "انتخاب زبان"
 
-msgctxt "DownloadsPage|"
-msgid "Add new download URL."
-msgstr "افزودن URL دانلود جدید."
+msgctxt "LicenseDialog|"
+msgid "License agreement"
+msgstr "قرارداد لایسنس"
 
-msgctxt "DownloadsPage|"
-msgid "No results found for"
-msgstr "نتیجه ای یافت نشد برای"
+msgctxt "LicenseDialog|"
+msgid "Accept"
+msgstr "پذیرفتن"
 
-msgctxt "DownloadsPage|"
-msgid "No results tagged \"%1\" found"
-msgstr "نتیجه ای برای \"%1\" تگ شده یافت نشد"
+msgctxt "LicenseDialog|"
+msgid "Decline"
+msgstr "رد کردن"
 
-msgctxt "DownloadsPage|"
-msgid "No active downloads"
-msgstr "دانلود فعالی وجود ندارد"
+msgctxt "LicenseDialog|"
+msgid "Close"
+msgstr "بستن"
 
-msgctxt "DownloadsPage|"
-msgid "No completed downloads"
-msgstr "دانلود تکمیل شده ای وجود ندارد"
+msgctxt "LicenseDialog|"
+msgid "By accepting this agreement, you agree to the terms and conditions."
+msgstr "با پذیرش این قرارد
 
-msgctxt "DownloadsPage|"
-msgid "Show all"
-msgstr "نمایش همه"
+اد، شما با شرایط و مقررات موافقت می‌کنید."
 
-msgctxt "DownloadsPage|"
-msgid "Download list is empty. Add new download URL."
-msgstr "لیست دانلود خالی است. افزودن URL دانلود جدید."
+msgctxt "LicenseDialog|"
+msgid "License agreement for %1"
+msgstr "قرارداد لایسنس برای %1"
 
-msgctxt "DownloadsPage|"
-msgid "Connect to remote %1"
-msgstr ""
+msgctxt "LicenseDialog|"
+msgid "Please read the license agreement carefully before proceeding. Do you accept the terms?"
+msgstr "قبل از ادامه، لطفاً قرارداد لایسنس را به دقت مطالعه کنید. آیا شرایط را قبول دارید؟"
 
-msgctxt "DownloadsSettings|"
-msgid "Downloads settings"
-msgstr "تنظیمات دانلودها"
+msgctxt "LogViewer|"
+msgid "Log viewer"
+msgstr "مشاهده‌کننده گزارش"
 
-msgctxt "DownloadsSettings|"
-msgid "Start downloading without confirmation"
-msgstr "شروع به دانلود کردن بدون نیاز به تایید"
+msgctxt "LogViewer|"
+msgid "Close"
+msgstr "بستن"
 
-msgctxt "DownloadsSettings|"
-msgid "Automatically remove deleted files from download list"
-msgstr "فایل های حذف شده را به صورت خودکار از لیست حذف کن"
+msgctxt "LogViewer|"
+msgid "Save"
+msgstr "ذخیره"
 
-msgctxt "DownloadsSettings|"
-msgid "Automatically remove completed downloads from download list"
-msgstr "به طور خودکار دانلودهای تکمیل شده را از لیست حذف کن"
+msgctxt "LogViewer|"
+msgid "Clear"
+msgstr "پاک کردن"
 
-msgctxt "DownloadsSettings|"
-msgid "Immediately"
-msgstr ""
-
-msgctxt "DownloadsSettings|"
-msgid "In"
-msgstr ""
-
-msgctxt "DownloadsSettings|"
-msgid "days"
-msgstr ""
-
-msgctxt "DownloadsSettings|"
-msgid "Automatically retry failed downloads"
-msgstr "تکرار خودکار دانلودهای لغو شده"
-
-msgctxt "DownloadsSettings|"
-msgid "Do not download web pages"
-msgstr ""
-
-msgctxt "DownloadsSettings|"
-msgid "Use server time for file creation"
-msgstr "از زمان سرور برای ایجاد فایل استفاده کن"
-
-msgctxt "DownloadsSettings|"
-msgid "Default download folder"
-msgstr "پوشه پیش فرض دانلود"
-
-msgctxt "DownloadsSettings|"
-msgid "Choose default download folder automatically"
-msgstr "انتخاب خودکار پوشه پیش فرض دانلود"
-
-msgctxt "DownloadsSettings|"
-msgid "Suggest folders based on file type"
-msgstr "پیشنهاد پوشه ها بر اساس نوع فایل"
-
-msgctxt "DownloadsSettings|"
-msgid "Suggest folders based on download URL"
-msgstr "پیشنهاد پوشه ها بر اساس URL دانلود"
-
-msgctxt "DownloadsSettings|"
-msgid "Fixed default download folder"
-msgstr "پوشه پیش فرض دانلود تصحیح شد"
-
-msgctxt "DownloadsTagMenu|"
-msgid "Untag"
-msgstr "بدون برچسب"
-
-msgctxt "DownloadsViewHeader|"
-msgid "Name"
-msgstr "نام"
-
-msgctxt "DownloadsViewHeader|"
-msgid "Status"
-msgstr "وضعیت"
-
-msgctxt "DownloadsViewHeader|"
-msgid "Speed"
-msgstr "سرعت"
-
-msgctxt "DownloadsViewHeader|"
-msgid "Size"
-msgstr "حجم"
-
-msgctxt "DownloadsViewHeader|"
-msgid "Added"
-msgstr "اضافه شده"
-
-msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
-msgid "Paused"
-msgstr "مکث  شده"
-
-msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
-msgid "File is missing"
-msgstr "فایل موجود نیست"
-
-msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
-msgid "Disk is missing"
-msgstr "دیسک موجود نیست"
-
-msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
-msgid "Upload paused"
-msgstr ""
-
-msgctxt "DownloadsViewItem|"
-msgid "Priority"
-msgstr "اولویت"
-
-msgctxt "DownloadsViewItem|"
-msgid "Upload paused"
-msgstr ""
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Restart"
-msgstr "شروع مجدد"
-
-msgctxt "DownloadsViewItemContextMenu|"
+msgctxt "LogViewer|"
 msgid "Open"
 msgstr "باز کردن"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Report problem"
-msgstr "گزارش مشکل"
+msgctxt "LogViewer|"
+msgid "Save log"
+msgstr "ذخیره گزارش"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Enable auto retry for this kind of errors"
-msgstr ""
+msgctxt "LogViewer|"
+msgid "Log file"
+msgstr "فایل گزارش"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Save and complete"
-msgstr ""
+msgctxt "LogViewer|"
+msgid "All files (%1)"
+msgstr "تمام فایل ها (%1)"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Show downloads"
-msgstr ""
+msgctxt "LogViewer|"
+msgid "Failed to save log file"
+msgstr "ذخیره فایل گزارش ناموفق بود"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Choose files..."
-msgstr ""
+msgctxt "LogViewer|"
+msgid "Log file saved successfully"
+msgstr "فایل گزارش با موفقیت ذخیره شد"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "High"
-msgstr "زیاد"
+msgctxt "MediaConverterDialog|"
+msgid "Converting media file..."
+msgstr "تبدیل فایل رسانه ای..."
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Normal"
-msgstr "معمولی"
+msgctxt "MediaConverterDialog|"
+msgid "Converting media file failed"
+msgstr "تبدیل فایل رسانه ای ناموفق بود"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Low"
-msgstr "کم"
+msgctxt "MediaConverterDialog|"
+msgid "Converting media file aborted"
+msgstr "تبدیل فایل رسانه ای لغو شد"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Rename file"
-msgstr ""
+msgctxt "MediaConverterDialog|"
+msgid "Converting media file successful"
+msgstr "تبدیل فایل رسانه ای با موفقیت انجام شد"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Move to..."
-msgstr "انتقال به..."
+msgctxt "MediaConverterDialog|"
+msgid "Open file"
+msgstr "باز کردن فایل"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Delete file"
-msgstr "حذف فایل"
+msgctxt "MediaConverterDialog|"
+msgid "Close"
+msgstr "بستن"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Remove from list"
-msgstr "حذف از لیست"
+msgctxt "MediaConverterDialog|"
+msgid "Abort"
+msgstr "لغو"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Play file while it is still downloading"
-msgstr ""
+msgctxt "MediaConverterDialog|"
+msgid "Save as"
+msgstr "ذخیره به عنوان"
 
-msgctxt "DownloadsViewItemContextMenu|"
+msgctxt "MediaConverterDialog|"
+msgid "Media file converted successfully"
+msgstr "فایل رسانه ای با موفقیت تبدیل شد"
+
+msgctxt "MediaConverterDialog|"
+msgid "Failed to convert media file"
+msgstr "تبدیل فایل رسانه ای ناموفق بود"
+
+msgctxt "MediaConverterDialog|"
+msgid "Convert another file"
+msgstr "تبدیل فایل دیگری"
+
+msgctxt "MediaConverterDialog|"
+msgid "Converted to"
+msgstr "تبدیل شده به"
+
+msgctxt "MirrorDialog|"
 msgid "Add mirror"
 msgstr "افزودن منبع"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Open download page"
-msgstr "باز کردن صفحه دانلود"
+msgctxt "MirrorDialog|"
+msgid "Mirror URL"
+msgstr "URL منبع"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Copy link"
-msgstr "کپی کردن لینک"
+msgctxt "MirrorDialog|"
+msgid "Close"
+msgstr "بستن"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Check for update"
-msgstr "بررسی برای بروزرسانی"
+msgctxt "MirrorDialog|"
+msgid "OK"
+msgstr "تایید"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Export selected downloads"
-msgstr "بیرون بردن دانلودهای انتخاب شده"
+msgctxt "MirrorDialog|"
+msgid "Add"
+msgstr "افزودن"
 
-msgctxt "DownloadsViewItemContextMenu|"
+msgctxt "MirrorDialog|"
+msgid "Add mirror URL"
+msgstr "افزودن URL منبع"
+
+msgctxt "MirrorDialog|"
+msgid "Please enter the mirror URL:"
+msgstr "لطفا URL منبع را وارد کنید:"
+
+msgctxt "MoveFileDialog|"
+msgid "Move file"
+msgstr "انتقال فایل"
+
+msgctxt "MoveFileDialog|"
+msgid "Move"
+msgstr "انتقال"
+
+msgctxt "MoveFileDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "MoveFileDialog|"
+msgid "Choose destination folder"
+msgstr "انتخاب پوشه مقصد"
+
+msgctxt "MoveFileDialog|"
+msgid "Destination folder"
+msgstr "پوشه مقصد"
+
+msgctxt "MoveFileDialog|"
+msgid "Select folder"
+msgstr "انتخاب پوشه"
+
+msgctxt "MoveFileDialog|"
+msgid "Failed to move file"
+msgstr "انتقال فایل ناموفق بود"
+
+msgctxt "MoveFileDialog|"
+msgid "File moved successfully"
+msgstr "فایل با موفقیت انتقال یافت"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Network settings"
+msgstr "تنظیمات شبکه"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "OK"
+msgstr "تایید"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Apply"
+
+
+msgstr "اعمال"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Reset"
+msgstr "بازنشانی"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Web browser"
+msgstr "مرورگر وب"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "FTP client"
+msgstr "کلاینت FTP"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "File sharing"
+msgstr "اشتراک فایل"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Mail client"
+msgstr "کلاینت ایمیل"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Address book"
+msgstr "دفترچه آدرس"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Network locations"
+msgstr "مکان های شبکه"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "News client"
+msgstr "کلاینت خبر"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Internet search"
+msgstr "جستجو در اینترنت"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Voice communication"
+msgstr "ارتباط صوتی"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Video communication"
+msgstr "ارتباط ویدیویی"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Network settings were successfully reset"
+msgstr "تنظیمات شبکه با موفقیت بازنشانی شد"
+
+msgctxt "NetworkSettingsDialog|"
+msgid "Failed to reset network settings"
+msgstr "بازنشانی تنظیمات شبکه ناموفق بود"
+
+msgctxt "NewTagDialog|"
 msgid "Add tag"
 msgstr "افزودن برچسب"
 
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "File integrity"
-msgstr "یکپارچگی فایل"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Schedule"
-msgstr "زمان بندی"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Change URL"
-msgstr "تغییر URL"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Convert to mp3"
-msgstr "تبدیل به mp3"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Convert to mp4"
-msgstr "تبدیل به mp4"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Perform virus check"
-msgstr "انجام ویروس یابی"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Abort"
-msgstr "لغو"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Set priority"
-msgstr "انتخاب اولویت"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Show in folder"
-msgstr "نمایش در پوشه"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Show info"
-msgstr "نمایش اطلاعات"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Files"
-msgstr "فایل ها"
-
-msgctxt "DownloadsViewItemContextMenu|"
-msgid "Sequential download"
-msgstr "دانلود ترتیبی"
-
-msgctxt "DownloadsViewItemContextMenu2|"
-msgid "Remove from list"
-msgstr "حذف از لیست"
-
-msgctxt "DownloadsViewItemContextMenu2|"
-msgid "Restart"
-msgstr "شروع مجدد"
-
-msgctxt "DownloadsViewItemFileInfo|"
-msgid "Download complete"
-msgstr "دانلود انجام شد"
-
-msgctxt "DownloadsViewItemFileInfo|"
-msgid "Checking files..."
-msgstr "در حال بررسی فایل ها..."
-
-msgctxt "DownloadsViewItemFileInfo|"
-msgid "Merging media streams..."
-msgstr "ادغام جریان رسانه..."
-
-msgctxt "DownloadsViewItemFileInfo|"
-msgid "Requesting info..."
-msgstr "در حال درخواست اطلاعات..."
-
-msgctxt "DownloadsViewItemFileInfo|"
-msgid "Queued"
-msgstr "صف شده"
-
-msgctxt "DownloadsViewItemFileInfo|"
-msgid "Paused"
-msgstr "مکث  شده"
-
-msgctxt "DownloadsViewItemFileInfo|"
-msgid "Unknown file size"
-msgstr "حجم فایل نامشخص"
-
-msgctxt "DownloadsViewStatusItem|"
-msgid "Queued"
-msgstr "صف شده"
-
-msgctxt "DownloadsViewStatusItem|"
-msgid "Checking files"
-msgstr "در حال بررسی فایل ها"
-
-msgctxt "DownloadsViewStatusItem|"
-msgid "Merging media streams"
-msgstr "ادغام جریان رسانه"
-
-msgctxt "DownloadsViewStatusItem|"
-msgid "Requesting info"
-msgstr "در حال درخواست اطلاعات"
-
-msgctxt "DownloadsViewStatusItem|"
-msgid "Unknown file size"
-msgstr "حجم فایل نامشخص"
-
-msgctxt "DownloadsViewStatusItem|"
-msgid "Paused"
-msgstr "مکث  شده"
-
-msgctxt "DownloadsViewStatusItem|"
-msgid "Complete"
-msgstr "کامل شد"
-
-msgctxt "EditTagDialog|"
-msgid "Edit tag"
-msgstr "ویرایش برچسب"
-
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid "Tag"
 msgstr "برچسب"
 
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid "Extensions (e.g. \"avi mp3\")"
 msgstr ""
 
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid ""
 "Extensions that are automatically assigned with this tag for new downloads"
 msgstr ""
 
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid "Default download folder"
 msgstr "پوشه پیش فرض دانلود"
 
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid "Open"
 msgstr "باز کردن"
 
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid "Cancel"
 msgstr "انصراف"
 
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid "Macros"
 msgstr "ماکروها"
 
-msgctxt "EditTagDialog|"
+msgctxt "NewTagDialog|"
 msgid "OK"
 msgstr "تایید"
 
-msgctxt "EnvTools|"
-msgid "Low battery"
-msgstr "باتری ضعیف"
+msgctxt "NotificationDialog|"
+msgid "Notification"
+msgstr "اعلان"
 
-msgctxt "EnvTools|"
-msgid "Data roaming disabled"
-msgstr ""
+msgctxt "NotificationDialog|"
+msgid "Close"
+msgstr "بستن"
 
-msgctxt "EnvTools|"
-msgid "No Internet connection"
-msgstr "اتصال به اینترنت برقرار نیست"
+msgctxt "NotificationDialog|"
+msgid "Show"
+msgstr "نمایش"
 
-msgctxt "EnvTools|"
-msgid "Mobile data use disabled"
-msgstr "استفاده از داده موبایل غیر فعال است"
+msgctxt "NotificationDialog|"
+msgid "Snooze"
+msgstr "تاخیر"
 
-msgctxt "ExistingFileReactionCombobox|"
-msgid "Rename"
-msgstr "تغییر اسم"
+msgctxt "NotificationDialog|"
+msgid "Dismiss"
+msgstr "رد کردن"
 
-msgctxt "ExistingFileReactionCombobox|"
-msgid "Overwrite"
-msgstr "جایگزینی"
+msgctxt "NotificationDialog|"
+msgid "Snooze for"
+msgstr "تاخیر برای"
 
-msgctxt "ExistingFileReactionCombobox|"
-msgid "Always ask"
-msgstr "همیشه سوال کن"
+msgctxt "NotificationDialog|"
+msgid "minutes"
+msgstr "دقیقه"
 
-msgctxt "ExportDownloadsDialog|"
-msgid "Export selected downloads"
-msgstr "بیرون بردن دانلودهای انتخاب شده"
+msgctxt "NotificationDialog|"
+msgid "snooze for 5 minutes"
+msgstr "تاخیر 5 دقیقه ای"
 
-msgctxt "ExportDownloadsDialog|"
-msgid "Export all downloads"
-msgstr "بیرون بردن تمام دانلودها"
+msgctxt "NotificationDialog|"
+msgid "snooze for 15 minutes"
+msgstr "تاخیر 15 دقیقه ای"
 
-msgctxt "ExportDownloadsDialog|"
-msgid "Save to"
-msgstr "ذخیره در"
+msgctxt "NotificationDialog|"
+msgid "snooze for 30 minutes"
+msgstr "تاخیر 30 دقیقه ای"
 
-msgctxt "ExportDownloadsDialog|"
-msgid "Open"
-msgstr "باز کردن"
+msgctxt "NotificationDialog|"
+msgid "snooze for 1 hour"
+msgstr "تاخیر 1 ساعته"
 
-msgctxt "ExportDownloadsDialog|"
+msgctxt "NotificationDialog|"
+msgid "snooze for 2 hours"
+msgstr "تاخیر 2 ساعته"
+
+msgctxt "NotificationDialog|"
+msgid "snooze for 4 hours"
+msgstr "تاخیر 4 ساعته"
+
+msgctxt "NotificationDialog|"
+msgid "snooze for 8 hours"
+msgstr "تاخیر 8 ساعته"
+
+msgctxt "NotificationDialog|"
+msgid "snooze for 1 day"
+msgstr "تاخیر 1 روز"
+
+msgctxt "NotificationDialog|"
+msgid "snooze for 2 days"
+msgstr "تاخیر 2 روز"
+
+msgctxt "NotificationDialog|"
+msgid "snooze for 1 week"
+msgstr "تاخیر 1 هفته"
+
+msgctxt "NotificationDialog|"
+msgid "This is a notification message."
+msgstr "این یک پیام اعلان است."
+
+msgctxt "NotificationDialog|"
+msgid "Do you want to proceed?"
+msgstr "آیا می‌خواهید ادامه دهید؟"
+
+msgctxt "OpenFileDialog|"
+msgid "Open file"
+msgstr "باز کردن فایل"
+
+msgctxt "OpenFileDialog|"
 msgid "Cancel"
 msgstr "انصراف"
 
-msgctxt "ExportDownloadsDialog|"
-msgid "All files (%1)"
-msgstr "تمام فایل ها (%1)"
+msgctxt "OpenFileDialog|"
+msgid "Choose file"
+msgstr "انتخاب فایل"
 
-msgctxt "ExportDownloadsDialog|"
-msgid "Export only completed downloads"
-msgstr "بیرون بردن دانلودهای پایان یافته"
+msgctxt "OpenFileDialog|"
+msgid "Failed to open file"
+msgstr "باز کردن فایل ناموفق بود"
 
-msgctxt "ExportDownloadsDialog|"
-msgid "Export"
-msgstr "بیرون بردن"
+msgctxt "OpenFileDialog|"
+msgid "File opened successfully"
+msgstr "فایل با موفقیت باز شد"
 
-msgctxt "ExportDownloadsTypeCombobox|"
-msgid "%1 downloads files (%2)"
-msgstr "%1 فایل های دانلودها (%2)"
+msgctxt "OptionsDialog|"
+msgid "Options"
+msgstr "گزینه ها"
 
-msgctxt "ExportDownloadsTypeCombobox|"
-msgid "Default format"
-msgstr "قالب پیش فرض"
+msgctxt "OptionsDialog|"
+msgid "OK"
+msgstr "تایید"
 
-msgctxt "ExportDownloadsTypeCombobox|"
-msgid "List of URLs"
-msgstr "لیست URLها"
-
-msgctxt "ExportDownloadsTypeCombobox|"
-msgid "Text files (%1)"
-msgstr "فایل های متنی (%1)"
-
-msgctxt "ExportDownloadsTypeCombobox|"
-msgid "CSV file"
-msgstr "فایل CSV"
-
-msgctxt "ExportDownloadsTypeCombobox|"
-msgid "CSV files (%1)"
-msgstr "فایل های CSV (%1)"
-
-msgctxt "ExportSettingsDialog|"
-msgid "Export"
-msgstr "بیرون بردن"
-
-msgctxt "ExportSettingsDialog|"
+msgctxt "OptionsDialog|"
 msgid "Cancel"
 msgstr "انصراف"
 
-msgctxt "ExportSettingsDialog|"
-msgid "%1 settings files (%2)"
-msgstr "%1 فایل های تنظیمات (%2)"
+msgctxt "OptionsDialog|"
+msgid "Apply"
+msgstr "اعمال"
 
-msgctxt "ExportSettingsDialog|"
-msgid "All files (%1)"
-msgstr "تمام فایل ها (%1)"
+msgctxt "OptionsDialog|"
+msgid "Reset"
+msgstr "بازنشانی"
 
-msgctxt "FileIntegrityDialog|"
-msgid "Check file integrity"
-msgstr "بررسی یکپارچگی فایل"
+msgctxt "OptionsDialog|"
+msgid "General"
+msgstr "کلی"
 
+msgctxt "OptionsDialog|"
+msgid "Downloads"
+msgstr "دانلودها"
+
+msgctxt "OptionsDialog|"
+msgid "Advanced"
+msgstr "پیشرفته"
+
+msgctxt "OptionsDialog|"
+msgid "Appearance"
+msgstr "ظاهر"
+
+msgctxt "OptionsDialog|"
+msgid "Language"
+msgstr "زبان"
+
+msgctxt "OptionsDialog|"
+msgid "Time format"
+msgstr "فرمت زمان"
+
+msgctxt "OptionsDialog|"
+msgid "Date format"
+msgstr "فرمت تاریخ"
+
+msgctxt "OptionsDialog|"
+msgid "Default download folder"
+msgstr "پوشه
 msgctxt "FileIntegrityDialog|"
 msgid "Hash"
 msgstr "Hash"
